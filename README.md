@@ -1,1 +1,1 @@
-#Vending Machine Simulator for the atmega2560
+# Vending Machine Simulator for the atmega2560
